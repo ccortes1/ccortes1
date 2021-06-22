@@ -18,7 +18,7 @@
 
 ---
 ### GitHub Coding Stats
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ccortes1&count_private=true&theme=tokyonight&show_icons=true&hide=stars)
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ccortes1&include_all_commits=true&count_private=true&theme=tokyonight&show_icons=true&hide=stars)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccortes1&layout=compact&theme=tokyonight)](https://github.com/ccortes1/github-readme-stats)
 <!--
